@@ -223,7 +223,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WpFYKBySPFAZ0uOc6NMJ-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WpFYKBySPFAZ0uOc6NMJ-73" target="WpFYKBySPFAZ0uOc6NMJ-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="821" y="462" />
+              <mxPoint x="821" y="425" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WpFYKBySPFAZ0uOc6NMJ-73" value="结构语义分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660.5" y="428.25" width="119" height="67.5" as="geometry" />
@@ -235,7 +240,12 @@
           <mxGeometry x="660.5" y="519" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="WpFYKBySPFAZ0uOc6NMJ-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WpFYKBySPFAZ0uOc6NMJ-75" target="WpFYKBySPFAZ0uOc6NMJ-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="837" y="647" />
+              <mxPoint x="837" y="523" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WpFYKBySPFAZ0uOc6NMJ-75" value="风险区域检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660.5" y="613" width="120" height="68" as="geometry" />
