@@ -353,9 +353,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WpFYKBySPFAZ0uOc6NMJ-258" value="&lt;div style=&quot;white-space-collapse: preserve;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;$$P_{\text{unseen}}(x,y) = \text{MaxPooling}\left\{ \text{CLIP}(\text{GeoExtrapolate}(x,y), \text{&quot;survivor&quot;}) \right\}$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="228" width="486" height="64" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
